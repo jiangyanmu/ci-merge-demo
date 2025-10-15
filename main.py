@@ -2,6 +2,8 @@
 def main():
     print("Welcome to this Enhanced Application!")
     print("Version: 1.0.0")
+    print("Welcome to the application.")
+    print("Version: 1.0.1")
 
 if __name__ == "__main__":
     main()
